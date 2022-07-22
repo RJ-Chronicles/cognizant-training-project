@@ -1,0 +1,49 @@
+.otpbac{
+    background-color: #f7f7fb;
+    font-family: Monaco;
+    margin-left: 5px;
+   
+}
+.headerColors {
+    background-color: #2a3a8d;
+    height:80px;
+}
+
+.titleColors {
+    color: white;
+    font-size: 22px;
+    margin-top: 10px;
+}
+
+.otpWidths {
+    width: 3rem !important;
+    height: 4rem !important;
+}
+
+.otpSarg {
+    /* margin: 3rem 5rem 3rem 4rem; */
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+    margin-left: 1rem;
+    margin-right: 9rem;
+}
+
+.otpArg {
+    margin-right: 0.5rem;
+}
+.modbon{
+    margin-left: 20px;
+    margin-right: 0px;
+}
+.modal-dialog{
+    width: 400px!important;
+height: 802px!important;
+}
+.modalFoots {
+    height: 80px;
+    margin-bottom: 10px;
+}
+.subm{
+    font-size: medium!important;
+    background-color: rgb(42, 58, 141)!important ;
+}

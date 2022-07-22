@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: online-resort-system
+  config:
+    import:
+     - optional:configserver:http://localhost:8888

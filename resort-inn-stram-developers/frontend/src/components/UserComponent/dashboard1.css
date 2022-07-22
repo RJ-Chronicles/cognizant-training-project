@@ -1,0 +1,90 @@
+
+/*============= End banner_area css =============*/
+.hotel_booking_table {
+  background: #1e1604;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  padding: 40px 50px 30px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+ 
+  top:50%;
+  left:50%;
+ 
+  
+ 
+  
+}
+.hotel_booking_table h2 {
+  font-size: 24px;
+  line-height: 30px;
+  color: #fff;
+  text-transform: uppercase;
+}
+
+
+
+
+
+
+
+
+
+
+
+.button {
+  border-radius: 4px;
+  background-color: #f4511e;
+  border: none;
+  color: #FFFFFF;
+  text-align: center;
+  font-size: 15px;
+  padding: 6px;
+  width: 200px;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 2px;
+}
+
+.button span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+.button span:after {
+  content: '\00bb';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+
+.button:hover span {
+  padding-right: 25px;
+}
+
+.button:hover span:after {
+  opacity: 1;
+  right: 0;
+}
+
+
+
+.main_content {
+  color:green;
+  padding-left : 47px;
+  text-size:2vw;
+}
+
+.container {
+  padding-left: 11px;
+  text-size:1vw;
+  position:"absolute";
+  top:"24%";
+  left:"50%";
+}

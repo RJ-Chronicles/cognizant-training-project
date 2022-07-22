@@ -1,0 +1,19 @@
+/* Footer */
+.stram-footer .footer {
+    padding-top: 24px;
+    padding-bottom: 24px;
+    background: #020224;
+    text-align: center;
+    color : #f0f0ff
+}
+.stram-footer .footer a{
+    font-size: 30px;
+    color : #adf;
+    padding-left : 10px;
+    margin-left : 30px;
+    
+}
+.stram-footer .footer  a::hover{
+     color : rgb(240, 64, 161)
+}
+

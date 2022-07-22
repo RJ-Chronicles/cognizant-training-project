@@ -1,0 +1,96 @@
+/* * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+} */
+/* .container{
+    margin-left:auto;
+} */
+
+.payment {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #0C4160;
+    margin-left: 0px;
+    padding: 30px 10px;
+}
+
+.cardo {
+    /* max-width: 500px; */
+    width: 45rem !important;
+    height: 47rem !important;
+    margin: auto;
+    color: black;
+    border-radius: 20 px;
+    margin-top: 70px;
+}
+
+.container .h8 {
+    font-size: 32px;
+    font-weight: 500;
+    text-align: center;
+    margin-left: 25px;
+}
+
+.butto {
+
+    width: 300px;
+    font-size: large !important;
+    padding-left: 140px !important;
+    margin-left: 13rem !important;
+    height: 50px;
+    display: flex;
+
+    text-align: center !important;
+    justify-content: space-between;
+
+    background-image: linear-gradient(to right, #77A1D3 0%, #79CBCA 51%, #77A1D3 100%);
+    border: none;
+    transition: 0.5s;
+    background-size: 200% auto;
+
+}
+
+
+.btn.btn.btn-primary:hover {
+    background-position: right center;
+    color: #fff;
+    text-decoration: none;
+}
+
+
+
+
+.form-control.mb-4 {
+    /* color: white; */
+
+    border: 1px solid black;
+    padding-right: 20px !important;
+    width: 300px;
+    height: 40px;
+    margin-left: 13rem;
+
+}
+
+
+.texto {
+    margin-left: 13rem;
+    font-size: 18px;
+    font-weight: 600;
+
+}
+
+.textos {
+    margin-left: 8rem;
+    font-size: 14px;
+    font-weight: 600;
+
+}
+
+::placeholder {
+    font-size: 14px;
+    font-weight: 600;
+}
